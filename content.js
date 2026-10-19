@@ -143,6 +143,14 @@ var BAKED = {
       "tech": "HTML, CSS, JavaScript",
       "gh": "https://github.com/samadgour/Portfolio",
       "demo": "https://samadgour.github.io/Portfolio/"
+    },
+    {
+      "title": "Movie recommendations app",
+      "ds": "Suggest based on user preferences",
+      "tech": "",
+      "gh": "",
+      "demo": "",
+      "id": 1792383882366
     }
   ],
   "certs": [
