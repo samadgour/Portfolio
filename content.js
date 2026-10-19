@@ -146,7 +146,7 @@ var BAKED = {
     },
     {
       "title": "Movie recommendations app",
-      "ds": "Suggest based on user preferences",
+      "ds": "Suggest movie based on user previous watched movie",
       "tech": "",
       "gh": "",
       "demo": "",
