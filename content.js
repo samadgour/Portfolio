@@ -151,6 +151,14 @@ var BAKED = {
       "gh": "",
       "demo": "",
       "id": 1792383882366
+    },
+    {
+      "title": "Cartoon club",
+      "ds": "A complete cartoon and animated movies catalogue where user can create watchlist or going to watch and it has pokedex which has total 1025 pokemon data",
+      "tech": "Html/css/javascript/omdb/pokeapi",
+      "gh": "https://github.com/samadgour/Cartoonclub/commits?author=samadgour&since=2026-10-31&until=2026-11-01",
+      "demo": "https://samadgour.github.io/Cartoonclub/",
+      "id": 1793533192310
     }
   ],
   "certs": [
